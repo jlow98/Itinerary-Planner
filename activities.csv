@@ -1,0 +1,27 @@
+name,address,subtype,cost,inoutflag,estduration,mustdoflag
+Universal Studios Singapore,"8 Sentosa Gateway, 098269",theme park,61,outdoor,8,1
+Singapore Art Museum,"71 Bras Basah Rd, Singapore 189555",museum,10,indoor,3,1
+Gardens By The Bay,"18 Marina Gardens Dr, Singapore 018953",sightseeing,0,outdoor,4,1
+Singapore Zoo,"80 Mandai Lake Rd, 729826",theme park,48,outdoor,8,1
+Singapore DUCKtours,"3 Temasek Blvd, Suntec City, Singapore 038983",tour,43,outdoor,2,1
+ION Orchard,"2 Orchard Turn, Singapore 238801",shopping,0,indoor,2,1
+Botanic Gardens,"1 Cluny Rd, Singapore 259569",sightseeing,0,outdoor,4,0
+Istana,"Orchard Rd, Singapore 238823",sightseeing,0,outdoor,1,0
+Fort Siloso,"Siloso Rd, 099981",museum,0,indoor,2,0
+Fort Canning,"River Valley Rd, Singapore 179037",sightseeing,0,outdoor,1,1
+Clarke Quay,"3 River Valley Rd, Singapore 179024",sightseeing,0,indoor,2,1
+Merlion,"1 Fullerton Rd, Singapore 049213",sightseeing,0,outdoor,0.5,1
+Esplanade,"Esplanade Dr, Singapore 038981",sightseeing,0,indoor,0.5,1
+Singapore Flyer,"30 Raffles Ave., Singapore 039803",sightseeing,40,indoor,1,0
+Jurong Lake Gardens,Yuan Ching Rd,sightseeing,0,outdoor,1,0
+East Coast Park,E Coast Park Service Rd,sightseeing,0,outdoor,3,0
+Jewel,"78 Airport Blvd., Singapore 819666",sightseeing,0,outdoor,2,0
+Singapore Discovery Centre,"510 Upper Jurong Rd, Singapore 638365",museum,10,indoor,4,0
+Singapore Science Centre,"15 Science Centre Rd, Singapore 609081",museum,12,indoor,4,1
+National Gallery,"1 St Andrew's Rd, Singapore 178957",museum,20,indoor,2,1
+Chinatown,"203 New Bridge Rd, Singapore 059429",sightseeing,0,outdoor,2,0
+Keong Saik Rd,Keong Saik Rd,sightseeing,0,outdoor,1,0
+Kampong Lorong Buangkok,13 Lor Buangkok,sightseeing,0,outdoor,0.5,1
+Haw Par Villa,"262 Pasir Panjang Rd, Singapore 118628",museum,0,indoor,1,0
+Little India,"Serangoon Rd, Singapore 218010",sightseeing,0,outdoor,2,1
+Arab Street,"Arab Street, Singapore 199800",sightseeing,0,outdoor,2,1

@@ -1,0 +1,49 @@
+code,day,night,derived,icon
+1000,Sunny,Clear,No Rain,113
+1003,Partly cloudy,Partly cloudy,No Rain,116
+1006,Cloudy,Cloudy,No Rain,119
+1009,Overcast,Overcast,No Rain,122
+1030,Mist,Mist,No Rain,143
+1063,Patchy rain possible,Patchy rain possible,Light Rain,176
+1066,Patchy snow possible,Patchy snow possible,Snow,179
+1069,Patchy sleet possible,Patchy sleet possible,Light Sleet,182
+1072,Patchy freezing drizzle possible,Patchy freezing drizzle possible,Light Rain,185
+1087,Thundery outbreaks possible,Thundery outbreaks possible,No Rain,200
+1114,Blowing snow,Blowing snow,Snow,227
+1117,Blizzard,Blizzard,Blizzard,230
+1135,Fog,Fog,No rain,248
+1147,Freezing fog,Freezing fog,No rain,260
+1150,Patchy light drizzle,Patchy light drizzle,Drizzle,263
+1153,Light drizzle,Light drizzle,Drizzle,266
+1168,Freezing drizzle,Freezing drizzle,Drizzle,281
+1171,Heavy freezing drizzle,Heavy freezing drizzle,Drizzle,284
+1180,Patchy light rain,Patchy light rain,Light Rain,293
+1183,Light rain,Light rain,Light Rain,296
+1186,Moderate rain at times,Moderate rain at times,Moderate Rain,299
+1189,Moderate rain,Moderate rain,Moderate Rain,302
+1192,Heavy rain at times,Heavy rain at times,Heavy Rain,305
+1195,Heavy rain,Heavy rain,Heavy Rain,308
+1198,Light freezing rain,Light freezing rain,Light Rain,311
+1201,Moderate or heavy freezing rain,Moderate or heavy freezing rain,Heavy Rain,314
+1204,Light sleet,Light sleet,Light Sleet,317
+1207,Moderate or heavy sleet,Moderate or heavy sleet,Moderate Sleet,320
+1210,Patchy light snow,Patchy light snow,Light Snow,323
+1213,Light snow,Light snow,Light Snow,326
+1216,Patchy moderate snow,Patchy moderate snow,Moderate Snow,329
+1219,Moderate snow,Moderate snow,Moderate Snow,332
+1222,Patchy heavy snow,Patchy heavy snow,Heavy Snow,335
+1225,Heavy snow,Heavy snow,Heavy Snow,338
+1237,Ice pellets,Ice pellets,Ice Pellets,350
+1240,Light rain shower,Light rain shower,Light Rain,353
+1243,Moderate or heavy rain shower,Moderate or heavy rain shower,Heavy Rain,356
+1246,Torrential rain shower,Torrential rain shower,Heavy Rain,359
+1249,Light sleet showers,Light sleet showers,Light Sleet,362
+1252,Moderate or heavy sleet showers,Moderate or heavy sleet showers,Heavy Sleet,365
+1255,Light snow showers,Light snow showers,Light Snow,368
+1258,Moderate or heavy snow showers,Moderate or heavy snow showers,Moderate Snow,371
+1261,Light showers of ice pellets,Light showers of ice pellets,Ice Pellets,374
+1264,Moderate or heavy showers of ice pellets,Moderate or heavy showers of ice pellets,Ice Pellets,377
+1273,Patchy light rain with thunder,Patchy light rain with thunder,Light Rain,386
+1276,Moderate or heavy rain with thunder,Moderate or heavy rain with thunder,Heavy Rain,389
+1279,Patchy light snow with thunder,Patchy light snow with thunder,Light Snow,392
+1282,Moderate or heavy snow with thunder,Moderate or heavy snow with thunder,Heavy Snow,395
